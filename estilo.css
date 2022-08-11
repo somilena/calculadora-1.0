@@ -1,0 +1,33 @@
+.btncalcular {
+    text-align: center;
+    background: aliceblue;
+    vertical-align: middle;
+    font-family: Verdana;
+    font-size: large
+}
+
+.num1 {
+    font-family: verdana;
+    font-size: large;
+}
+.num2 {
+    font-family: verdana;
+    font-size: large;
+}
+.operacao {
+    font-family: verdana;
+    font-size: large;
+}
+.th {
+    font-family: verdana;
+    background: aliceblue;
+    font-size: larger;
+}
+.resultado {
+    font-family: verdana;
+    background: lightgreen;
+    font-size: larger;
+}
+.btnrefazer {
+    text-align: right;
+}
